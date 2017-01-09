@@ -53,3 +53,4 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'passenger', '~> 5.0', '>= 5.0.30'
+gem 'rake', '10.0.2'
