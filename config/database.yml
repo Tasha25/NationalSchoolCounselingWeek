@@ -81,5 +81,5 @@ test:
 production:
   <<: *default
   database: national_school_counseling_week_production
-  username: national_school_counseling_week
-  password: <%= ENV['NATIONAL_SCHOOL_COUNSELING_WEEK_DATABASE_PASSWORD'] %>
+  username: tash_deployer
+  password: tash_deployer
